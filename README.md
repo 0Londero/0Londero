@@ -1,5 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Otávio Londero
-======================================================================================================================================
+<p align="center">
+  <a>
+    <img src="https://github.com/0Londero/0Londero/blob/main/Rengoku%20Gif.gif" alt="Rengoku Gif">
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm Otávio Londero </a>!</h1>
 
 Data Scientist
 --------------
