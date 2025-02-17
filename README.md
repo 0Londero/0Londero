@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://github.com/0Londero/0Londero/blob/main/Rengoku%20Gif.gif" alt="Rengoku Gif">
+    <img src="https://github.com/0Londero/0Londero/blob/main/Goku_gif.gif" alt="Goku Gif">
   </a>
 </p>
 
@@ -19,7 +19,7 @@ I’m 20 years old and passionate about technology, a fascination I’ve had sin
 * ✉️  You can contact me at [otavio.b.londero@gmail.com](mailto:otavio.b.londero@gmail.com)
 * 🧠  I'm learning Data Science Tools
 * 🤝  I'm open to collaborating on Data Projects
-* ⚡  Set your heart ablaze and enjoy the journey.
+* ⚡  Set your heart ablaze and enjoy the journey!!
 
 ### Skills
 
