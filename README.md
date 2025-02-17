@@ -6,13 +6,13 @@
 
 <h1 align="center">Hi, I'm Otávio Londero </a>!</h1>
 
-Data Scientist
+Data Scientist Student
 --------------
 
 I’m 20 years old and passionate about technology, a fascination I’ve had since childhood. From an early age, I was always in touch with computers and video games—a hobby I still carry with me today. At 18, after finishing high school, I started my Bachelor's degree in Computer Science. By the end of 2024, I decided to challenge myself and step out of my comfort zone, temporarily pausing my degree to pursue a Data Science course. I chose this field because I realized how data analysis can transform raw information into valuable knowledge and real impact. The ability to explore large datasets, identify patterns, and make strategic decisions has always fascinated me. I saw in Data Science the perfect intersection of logic, statistics, and technology applied to real-world problems. Currently, I continue studying and deepening my knowledge in this field, always striving to improve and work on increasingly challenging projects.
 
 <p align="right">
- <img src="https://github.com/0Londero/0Londero/blob/main/Rengoku.jpeg" alt="Rengoku" width="280" align="right">
+ <img src="https://github.com/0Londero/0Londero/blob/main/Rengoku.jpeg" alt="Rengoku" width="340" align="right">
 </p>
 
 * 🌍  I'm based in Brazil
