@@ -33,4 +33,4 @@ I’m a Brazilian, 20 years old, and passionate about technology—a fascination
 
 ### Badges
 
-<a href="https://github.com/0Londero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Londero&langs_count=10&title_color=84cc16&text_color=22c55e&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/0Londero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Londero&langs_count=5&title_color=84cc16&text_color=22c55e&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
