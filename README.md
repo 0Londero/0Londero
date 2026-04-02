@@ -35,4 +35,4 @@ This international experience not only sharpened my technical skills in data ana
 
 ### Stats
 
-![](https://raw.githubusercontent.com/0Londero/0Londero/main/profile-summary-card-output/gruvbox/0-profile-details.svg)
+<img src="https://raw.githubusercontent.com/0Londero/0Londero/main/profile-summary-card-output/gruvbox/0-profile-details.svg" width="500"/>
