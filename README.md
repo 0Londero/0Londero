@@ -35,4 +35,4 @@ This international experience not only sharpened my technical skills in data ana
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OLondero)](https://github.com/anuraghazra/github-readme-stats)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OLondero)](https://github.com/anuraghazra/github-readme-stats)
