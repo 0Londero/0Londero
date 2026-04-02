@@ -6,10 +6,12 @@
 
 <h1 align="center">Hi, I'm Otávio Londero </a>!</h1>
 
-Data Scientist / Analyst
+Computer Science Student
 --------------
 
-I'm a Brazilian, 20 years old, and passionate about technology-a fascination I've had since childhood. From an early age, I was always in touch with computers and video games-a hobby I still carry with me today. At 18, after finishing high school, I started my Bachelor's degree in Computer Science. By the end of 2024, I decided to challenge myself and step out of my comfort zone, temporarily pausing my degree to pursue a Data Science course in Vancouver, Canada. Besides deepening my knowledge in this field, I also saw this as an opportunity to improve my English. I chose Data Science because I realized how data analysis can transform raw information into valuable knowledge and real impact. The ability to explore large datasets, identify patterns, and make strategic decisions has always fascinated me. I saw in Data Science the perfect intersection of logic, statistics, and technology applied to real-world problems. Currently, I continue studying and deepening my knowledge in this field, always striving to improve and work on increasingly challenging projects.
+I am a Brazilian tech enthusiast whose passion for computers and gaming started in childhood. Currently pursuing my Bachelor's in Computer Science, I recently completed a transformative year in Vancouver, Canada, where I earned a diploma in Data Science.
+
+This international experience not only sharpened my technical skills in data analysis and problem-solving but also enhanced my adaptability and English fluency. Now based in Curitiba, I am looking for my first professional opportunity to contribute value to innovative teams and grow as a technology professional.
 
 <p align="right">
  <img src="https://github.com/0Londero/0Londero/blob/main/Rengoku.jpeg" alt="Rengoku" width="288" align="right">
